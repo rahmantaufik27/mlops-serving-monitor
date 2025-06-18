@@ -1,6 +1,8 @@
 # MLOps Serving & Monitoring
+
 ---
 Proyek ini mendemonstrasikan implementasi sistem Machine Learning Operations (MLOps) yang lengkap, mencakup modeling dan tracking menggunakan MLFlow dan Dagshub, serving model ML melalui Docker dan Flask sebagai proxy API, serta monitoring dan alerting menggunakan Prometheus dan Grafana.
+
 ---
 ## Struktur Proyek
 
