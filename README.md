@@ -110,4 +110,5 @@ Metrik-metrik yang bisa dilihat:
 - Kesehatan Target: up{job="ml_model_exporter"}
 - Jumlah File Descriptors yang Dibuka: avg_over_time(process_open_fds{job="ml_model_exporter"}[5m])
 - Jumlah Thread Proses: avg_over_time(process_threads{job="ml_model_exporter"}[5m])
+
 Grafana Alerts: Konfigurasikan aturan alert di Grafana (misal, jika total request melebihi threshold tertentu, atau jika latensi memburuk) untuk menerima notifikasi melalui email. Pastikan contact point email sudah diuji dan berfungsi.
