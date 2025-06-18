@@ -11,24 +11,24 @@ SMSML_Nama-siswa.zip
 ├── Eksperimen_SML_rtaufik27.txt
 ├── Membangun_model
     ├── modelling.py
-    ├── modelling_tuning.py (skilled/advanced)
-    ├── namadataset_preprocessing (bisa berupa file atau folder)
+    ├── modelling_tuning.py
+    ├── namadataset_preprocessing
     ├── screenshoot_dashboard.jpg
     ├── screenshoot_artifak.jpg
     ├── requirements.txt
-    ├── DagsHub.txt (berisikan tautan DagsHub jika menerapkan advanced)
+    ├── DagsHub.txt
 ├── Workflow-CI.txt
 ├── Monitoring dan Logging
     ├── 1.bukti_serving
     ├── 2.prometheus.yml
     ├── 3.prometheus_exporter.py
-    ├── 4.bukti monitoring Prometheus (folder)
+    ├── 4.bukti monitoring Prometheus
         └── 1.monitoring_<metriks>
         └── 2.monitoring_<metriks>
-    ├── 5.bukti monitoring Grafana (folder)
+    ├── 5.bukti monitoring Grafana
         └── 1.monitoring_<metriks>
         └── 2.monitoring_<metriks>
-    ├── 6.bukti alerting Grafana (folder)
+    ├── 6.bukti alerting Grafana
         └── 1.rules_<metriks>
         └── 2.notifikasi_<metriks>
     ├── 7.Inference.py
